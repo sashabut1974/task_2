@@ -1,0 +1,40 @@
+.end>ul{
+    color: red;
+}
+.text~p{
+    color: blueviolet;
+}
+.text+h2{
+    color: green;
+}
+.text~h2{
+    color: aqua;
+}
+.text>h2{
+    color: brown;
+}
+.text>p{
+    color: gold;
+}
+.text ul{
+    color: darkgreen;
+}
+.start ol{
+    color: red;
+}
+h1,h2{
+    color: red;
+}
+.end~p{
+    color: crimson;
+}
+.text~p{
+    color: crimson;
+}
+span{
+    color: coral;
+}
+.start>p,
+.end>p{
+color: green;
+}
